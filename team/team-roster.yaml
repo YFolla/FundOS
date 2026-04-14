@@ -1,0 +1,49 @@
+team:
+  - id: elena-park
+    name: Elena Park
+    role: Partner
+    focus: Fintech and infrastructure
+    region: New York
+    slack: "@elena.park"
+    github: "@elena-park"
+    status: illustrative
+  - id: marc-dubois
+    name: Marc Dubois
+    role: Partner
+    focus: European software and AI
+    region: Paris
+    slack: "@marc.dubois"
+    github: "@marc-dubois"
+    status: illustrative
+  - id: naomi-levy
+    name: Naomi Levy
+    role: Principal
+    focus: Application software
+    region: London
+    slack: "@naomi.levy"
+    github: "@naomi-levy"
+    status: illustrative
+  - id: devon-cho
+    name: Devon Cho
+    role: Principal
+    focus: Digital asset infrastructure
+    region: Toronto
+    slack: "@devon.cho"
+    github: "@devon-cho"
+    status: illustrative
+  - id: priya-shah
+    name: Priya Shah
+    role: Platform Lead
+    focus: Portfolio support
+    region: London
+    slack: "@priya.shah"
+    github: "@priya-shah"
+    status: illustrative
+  - id: liam-ross
+    name: Liam Ross
+    role: Finance and Fund Operations
+    focus: LP reporting and valuations
+    region: Guernsey
+    slack: "@liam.ross"
+    github: "@liam-ross"
+    status: illustrative

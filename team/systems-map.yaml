@@ -1,0 +1,45 @@
+systems:
+  - name: Box
+    role: Source system for durable documents
+    seed_priority: high
+    best_for:
+      - historical investment memos
+      - diligence decks
+      - board materials
+      - LP letters
+      - legal templates
+    ingestion_rule: Curate documents into Markdown summaries and link the original Box path in the object index.
+  - name: CRM
+    role: Source system for structured company and people metadata
+    seed_priority: highest
+    best_for:
+      - company status
+      - stage
+      - ownership
+      - founder records
+      - relationship history
+    ingestion_rule: Export metadata first and use it to create the canonical company index.
+  - name: Calendar and meeting transcripts
+    role: Source system for recent interactions and tacit context
+    seed_priority: high
+    best_for:
+      - founder calls
+      - IC prep
+      - portfolio syncs
+    ingestion_rule: Capture concise summaries, decisions, and next steps rather than full transcript dumps.
+  - name: Email and Slack
+    role: Source system for commitments, nuance, and unresolved questions
+    seed_priority: medium
+    best_for:
+      - follow-ups
+      - process clarifications
+      - partner feedback
+    ingestion_rule: Summarize only durable context into the repo.
+  - name: Fund admin and finance systems
+    role: Source system for valuations, capital calls, and LP reporting
+    seed_priority: medium
+    best_for:
+      - quarterly fund updates
+      - valuation packs
+      - audit artifacts
+    ingestion_rule: Mirror only the files and metadata required for recurring internal work.

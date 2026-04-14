@@ -1,0 +1,15 @@
+funds:
+  north-american-seed-fund:
+    title: North American Seed Fund
+    owner: liam-ross
+    files:
+      overview: funds/north-american-seed-fund/fund-overview.md
+      updates:
+        - funds/north-american-seed-fund/lp-updates/2026-q1-update.md
+  digital-asset-fund:
+    title: Digital Asset Fund
+    owner: liam-ross
+    files:
+      overview: funds/digital-asset-fund/fund-overview.md
+      updates:
+        - funds/digital-asset-fund/lp-updates/2026-q1-update.md

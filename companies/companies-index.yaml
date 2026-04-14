@@ -1,0 +1,65 @@
+companies:
+  arcturus-ai:
+    company_name: Arcturus AI
+    status: sourced
+    stage: seed
+    theme: ai-application-stack
+    geography: Europe
+    lead_owner: naomi-levy
+    support_owner: marc-dubois
+    source_refs:
+      crm: CRM-1001
+      box: box://pipeline/arcturus-ai
+    files:
+      company: companies/arcturus-ai/company.md
+      people: companies/arcturus-ai/people.md
+      decision_log: companies/arcturus-ai/decision-log.md
+      interactions:
+        - companies/arcturus-ai/interactions/2026-04-03-founder-intro.md
+      diligence:
+        - companies/arcturus-ai/diligence/market.md
+      memos:
+        - companies/arcturus-ai/memos/first-look.md
+  helix-pay:
+    company_name: Helix Pay
+    status: active-diligence
+    stage: series-a
+    theme: embedded-fintech
+    geography: North America
+    lead_owner: elena-park
+    support_owner: liam-ross
+    source_refs:
+      crm: CRM-1048
+      box: box://pipeline/helix-pay
+    files:
+      company: companies/helix-pay/company.md
+      people: companies/helix-pay/people.md
+      decision_log: companies/helix-pay/decision-log.md
+      interactions:
+        - companies/helix-pay/interactions/2026-04-02-founder-follow-up.md
+      diligence:
+        - companies/helix-pay/diligence/market.md
+      memos:
+        - companies/helix-pay/memos/ic-draft.md
+  lumenfleet:
+    company_name: LumenFleet
+    status: portfolio
+    stage: series-b
+    theme: ai-application-stack
+    geography: North America
+    lead_owner: marc-dubois
+    support_owner: priya-shah
+    source_refs:
+      crm: CRM-2041
+      box: box://portfolio/lumenfleet
+    files:
+      company: companies/lumenfleet/company.md
+      people: companies/lumenfleet/people.md
+      decision_log: companies/lumenfleet/decision-log.md
+      interactions:
+        - companies/lumenfleet/interactions/2026-04-01-board-prep.md
+      diligence:
+        - companies/lumenfleet/diligence/market.md
+      memos:
+        - companies/lumenfleet/memos/q2-support-plan.md
+      portfolio_plan: companies/lumenfleet/portfolio-plan.md

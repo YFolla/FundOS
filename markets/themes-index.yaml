@@ -1,0 +1,17 @@
+themes:
+  ai-application-stack:
+    title: AI application stack
+    owner: naomi-levy
+    files:
+      thesis: markets/ai-application-stack/thesis.md
+      market_map: markets/ai-application-stack/market-map.md
+  embedded-fintech:
+    title: Embedded fintech
+    owner: elena-park
+    files:
+      thesis: markets/embedded-fintech/thesis.md
+  digital-asset-infrastructure:
+    title: Digital asset infrastructure
+    owner: devon-cho
+    files:
+      thesis: markets/digital-asset-infrastructure/thesis.md
