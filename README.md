@@ -78,6 +78,7 @@ This is the core reason FundOS is useful. It turns messy firm context into direc
 - `TEAMOS.md` is the canonical operating map for the repo.
 - `AGENTS.md` is the Codex-facing adapter.
 - `CLAUDE.md` is the Claude-facing adapter.
+- `docs/fundos-guide.md` is the plain-English guide to how FundOS works, why it is useful, and how team members should contribute to it.
 - `companies/` is the main working surface for sourced, diligence, passed, and portfolio companies.
 - `markets/` holds theses and market maps that support sourcing and diligence.
 - `funds/` holds LP and fund-level context.
